@@ -6,11 +6,8 @@ import './App.css';
 function App() {
     return (
         <div className="App">
-            <button>add-2</button>
-            <p>Learn Git</p>
-            <p>hello</p>
-            <p>2</p>
-            <p>3</p>
+            <button>add-1</button>
+            <button>dev branch commit 1</button>
         </div>
     );
 }
