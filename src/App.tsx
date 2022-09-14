@@ -9,6 +9,7 @@ function App() {
             <button>add-2</button>
             <p>Learn Git</p>
             <p>hello</p>
+            <p>2</p>
         </div>
     );
 }
